@@ -19,7 +19,7 @@ English:
 Each player places ten ice cafés on the city map by taking turns.
 Your goal is to conquer and defend the territory of your ice cream brand in the city. 
 The color of the map will show the territory conquered by each player.  
-The part of the city which is closer to your shops than to the adversary's stores belongs to you. 
+The part of the city which is closer to your cafés than to the adversary's cafés belongs to you. 
 
 
 
