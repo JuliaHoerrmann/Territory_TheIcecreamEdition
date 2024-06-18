@@ -1,10 +1,17 @@
                            Territory - the Ice cream edition 
 
 Installation in Windows: 
+- open a command prompt
 
-- install the Python packages from requirements.txt
+- go to the directory "cd Installationpath"
 
-- run the game with Territory.py
+- create a new virtual environment "py -m venv env"
+
+- run "env\Scripts\Activate.bat"
+
+- Install the required packages with "py -m pip install -r requirements.txt"
+
+- run the game with "py -m Territory.py"
 
 %----------------------------------
 Deutsch: 
