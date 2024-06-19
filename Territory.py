@@ -34,8 +34,8 @@ player2 = pygame.image.load(os.path.join("EIS_Player2.png"))
 player2=pygame.transform.scale(player2, (20, 20))
 
 # Fenster öffnen
-screensize=[800,800]
-window=Polygon([(0,0),(800,0),(800,800),(0,800)])
+screensize=[600,600]
+window=Polygon([(0,0),(600,0),(600,600),(0,600)])
 screen = pygame.display.set_mode(screensize)
 Area=screensize[0]*screensize[1]
 screen.fill((255, 255, 255))
